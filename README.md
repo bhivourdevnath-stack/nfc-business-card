@@ -64,13 +64,13 @@ A smart business card with an embedded NFC chip that shares your contact info, s
 ---
 
 #  Project Structure
-
-nfc-business-card/
-├── README.md
-├── card-design/ # Print files and layouts
-├── firmware/ # custom PCB code
+<p>
+nfc-business-card/<br>
+├── README.md<br>
+├── card-design/ # Print files and layouts<br>
+├── firmware/ # custom PCB code<br>
 └── docs/ # Guides and references
-
+</p>
 
 ---
 
